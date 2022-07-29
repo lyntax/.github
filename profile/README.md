@@ -25,12 +25,12 @@ function test($var){
 With Lyntax:
 
 ```
-%=a=20=%
-%=b=30=%
+%a=20#
+%b=30#
 
 *=a.b=*
 
-func test(%=var){
-*|%=var|*
+func test(%var){
+*|%var|*
 }
 ```
