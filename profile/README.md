@@ -25,15 +25,11 @@ function test($var){
 With Lyntax:
 
 ```
-$lyntax->var(
-              [
-               'a'=>20,
-               'b'=>30
-              ],
-              [
-               'test'=>
-                        'var',
-                        'var'
-              ]
-             );
+var a=20,b=30
+
+=a+b=
+
+func var(['var']){
+*|$var|*
+}
 ```
