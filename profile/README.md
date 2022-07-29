@@ -29,7 +29,7 @@ var a=20,b=30
 
 =a+b=
 
-func var(['var']){
+func test(['var']){
 *|$var|*
 }
 ```
