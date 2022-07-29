@@ -25,9 +25,10 @@ function test($var){
 With Lyntax:
 
 ```
-var a=20,b=30
+%=a=20=%
+%=b=30=%
 
-=a+b=
+*=a+b=*
 
 func test(['var']){
 *|$var|*
