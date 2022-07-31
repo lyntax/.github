@@ -30,7 +30,7 @@ With Lyntax:
 
 *=%|a.%|b=*
 
-func test(%|var){
+func-> test(%|var){
 *|%|var|*
 }
 ```
