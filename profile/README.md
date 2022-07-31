@@ -28,9 +28,9 @@ With Lyntax:
 $a=20;
 $b=30;
 
-*=$a.$b=*
+*=$a.$b;
 
 func-> test($var){
-*|$var|*
+*|$var;
 }
 ```
